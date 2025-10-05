@@ -1,58 +1,14 @@
 ---
 layout: post
-title: Math Examples
-date: 2025-03-18
-categories: [tutorial, math]
+title: 역행자 리뷰
+date: 2025-10-05
+categories: [책, 자기개발]
 ---
 
-# Math Support in Markdown
+# 역행자라는 책을 오늘 완독했다.
 
-This page demonstrates how to use math expressions in Markdown.
+꽤나 재미있었다, 앞으로도 이렇게 책을 완독 하면 여기에 리뷰를 남겨보려고 한다.
 
-## Inline Math
+## 리뷰
 
-- Einstein's famous equation: $E = mc^2$
-- The Pythagorean theorem: $a^2 + b^2 = c^2$
-- A simple fraction: $\frac{1}{2}$
-
-## Display Math
-
-The quadratic formula:
-
-$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
-
-Maxwell's Equations:
-
-$$
-\begin{align}
-\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\
-\nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
-\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
-\nabla \cdot \vec{\mathbf{B}} & = 0
-\end{align}
-$$
-
-A matrix:
-
-$$
-\begin{pmatrix}
-a & b & c \\
-d & e & f \\
-g & h & i
-\end{pmatrix}
-$$
-
-## Usage Instructions
-
-You can write math expressions in your Markdown files using:
-
-1. Inline math: `$...$` or `\(...\)`
-2. Display math: `$$...$$` or `\[...\]`
-
-For example, to write Einstein's equation inline, type `$E = mc^2$`.
-
-For a block equation like the quadratic formula, use:
-
-```
-$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
-```
+일단 생각보다 유익했다. 앞으로 어떻게 살아가야 할지 좀 명확해진 기분이었고, 어떤 책을 봐야할지도 고민이 많았는데 이 책을 참고하기로 했다.
